@@ -1,0 +1,28 @@
+# python compiled files
+*.pyc
+*.pyo
+
+# python environment folders
+venv
+
+
+# IDE files
+.idea
+
+__pycache__
+
+# log files
+*.orig
+*.log
+package-lock.json
+*.lock
+
+# MAC files
+*.DS_Store
+
+.coverage
+
+.ipynb_checkpoints
+
+results
+data
